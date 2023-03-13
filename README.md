@@ -8,7 +8,7 @@ With just a few clicks, you can find the nearest bin to dispose of your waste an
 ![Create-Course](https://user-images.githubusercontent.com/51001611/224603373-ceba70a6-8844-47a8-a412-fdb8d35cc33f.jpg)
 
 <br>
-App home: https://www.binfind.online/
+App home: https://city2table.herokuapp.com/
    
 
 ## Getting Started
