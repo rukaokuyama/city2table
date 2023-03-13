@@ -37,7 +37,6 @@ CLOUDINARY_URL=your_own_cloudinary_url_key
 rails db:create
 rails db:migrate
 rails db:seed
-rails bin:attach_photos
 ```
 
 ### Run a server
